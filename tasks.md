@@ -13,12 +13,13 @@
    * Testing
 *  Project Definition - what are we building?
    * Create Use Cases
-     * System users include:
+     * System actors include:
        * Contributors
        * Public / browsers
        * Researchers
        * Administrators
        * Possibly, other CaMPA<sub>19</sub> nodes?
+       * Other institutions, e.g. libraries (cf. https://lapl.org/safer-archive)
    * Develop domain model
      * Initial sketch [here](asset_metadata.md)
      * Consider other indexing systems, e.g. from the
