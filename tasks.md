@@ -1,6 +1,7 @@
 # Project Tasks
 
 *  Identify project roles / team members
+   * Product Manager (Yves)
    * Project Manager
    * Back End Developer (Bill?)
    * Query Processor (Christophe?)
