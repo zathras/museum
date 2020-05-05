@@ -12,7 +12,7 @@
      *  Statistics (Yves)
    * Testing
 *  Project Definition - what are we building?
-   * Create Use Cases
+   * Create Use Cases (cf. [System Boundary Document](boundary.md))
      * Possible system actors include:
        * Contributors
        * Public / browsers
